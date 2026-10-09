@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\student\source\repos\Lab3_1\Source.c(19,2): warning C4013: main1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\source\repos\Lab3_1\Source.c(20,2): warning C4013: main2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\source\repos\Lab3_1\Source.c(33,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Lab3_1\Source.c(53,316): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\student\source\repos\Lab3_1\Source.c(53,316):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 9
+  
+  Lab3_1.vcxproj -> C:\Users\student\source\repos\Lab3_1\x64\Debug\Lab3_1.exe
